@@ -10,7 +10,7 @@ The DApp User Interface when running should look like...
 
 ![truffle test](images/ftc_product_details.png)
 
-![truffle test](images/ftc_transaction_history.png)
+![truffle test](images/history.GIF)
 
 
 ## Getting Started
