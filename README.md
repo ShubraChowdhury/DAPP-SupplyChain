@@ -2,15 +2,42 @@
 
 This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
 
+![Activity Diagram](images/Activity.png)
+
+![Sequence Diagram](images/Sequence.png)
+
+![State Diagram](images/State.png)
+
+![Class Diagram](images/Class.png)
+
+![Code Compile](images/Compile.png)
+
+![Test Success](images/Test1.png)
+
+![Test Success](images/Test2.png)
+
+![Migrate To Sepolia](images/migrate-sepolia.png)
+
+![Migrate To Sepolia](images/migrate-sepolia2.png)
+
+![Migrate To Sepolia](images/migrate-sepolia3.png)
+
+[Ether Scan Link of Migration ](https://sepolia.etherscan.io/address/0x83F5aD0723fb7C0903C9f6D98fc01299dF87F838)
+
+![Ether Scan Screenshot](images/EtherScan.png)
+
+![npm run dev](images/run.png)
+
+![tuffle develop](images/tuffle.png)
+
+![Ganache Blocks](images/ganache.png)
+
+
 The DApp User Interface when running should look like...
 
-![truffle test](images/ftc_product_overview.png)
+![APP Screen](images/Screen-1.png)
 
-![truffle test](images/ftc_farm_details.png)
-
-![truffle test](images/ftc_product_details.png)
-
-![truffle test](images/history.GIF)
+![History Not Showing Transaction](images/history.GIF)
 
 
 ## Getting Started
