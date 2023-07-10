@@ -9,6 +9,15 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 #### Node v18.16.0 : Node served as runtime environment for executing scripts and interacting with  network.
 #### Web3.js v1.10.0 : Web3 to innteract with blockchain and develop DApp using JavaScript.
 
+# Smart Contract Address
+
+#### URL
+##### https://sepolia.etherscan.io/address/0x83F5aD0723fb7C0903C9f6D98fc01299dF87F838
+#### ADDRESS
+##### 0x83F5aD0723fb7C0903C9f6D98fc01299dF87F838
+#### Transaction Hash:
+##### https://sepolia.etherscan.io/tx/0x926799507a449632e7eccf1afd7de3f260a48f94f6aa699a472ca96d27775a37
+##### 0x926799507a449632e7eccf1afd7de3f260a48f94f6aa699a472ca96d27775a37
 
 ##### Activity Diagram
 ![Activity Diagram](images/Activity.png)
@@ -160,3 +169,17 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Ganache-cli
 * Truffle
 * IPFS
+
+
+
+
+#### References:
+###### https://knowledge.udacity.com/questions/719531
+###### https://knowledge.udacity.com/questions/887570
+###### https://knowledge.udacity.com/questions/109259
+###### https://knowledge.udacity.com/questions/811320
+###### https://knowledge.udacity.com/questions/808446
+###### https://knowledge.udacity.com/questions/678566
+###### https://knowledge.udacity.com/questions/680976
+###### https://knowledge.udacity.com/questions/778717#785724
+###### https://knowledge.udacity.com/questions/995050
